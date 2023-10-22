@@ -19,7 +19,7 @@ z-index: 1000;
     opacity: 0;
 }
 
-/*! КАЦАП */
+/*! прикольна кнопка */
 
 .scroll-up {
     position: fixed;
@@ -47,7 +47,7 @@ z-index: 1000;
     width: 100%;
     height: 100%;
     font-size: 20px;
-    content: '\25B2';
+    /* content: '\25B2'; */
     }
     .scroll-up:hover{
         color: #242424;
